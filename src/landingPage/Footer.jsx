@@ -78,7 +78,7 @@ function Footer() {
         {/* Legal & Regulatory Info */}
         <div className='mt-5'>
           <p className='text-muted' style={{ fontSize: "12px" }}>
-            BullionX Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration no.: INZ000031633 CDSL/NSDL:
+            BullionX Broking Ltd.: Member of NSE, BSE & MCX – SEBI Registration no.: INZ000031633 CDSL/NSDL:
             Depository services through BullionX Broking Ltd. – SEBI Registration no.: IN-DP-431-2019 Commodity Trading through
             BullionX Commodities Pvt. Ltd. MCX: 46025; NSE-50001 – SEBI Registration no.: INZ000038238 Registered Address:
             BullionX Broking Ltd., #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase,
