@@ -1,10 +1,11 @@
 
 import './App.css'
+import HomePage from './landingPage/home/HomePage';
 
 function App() {
  return(
     <>
-      <h3>BULLIONX</h3>
+      <HomePage/>
     </>
   );
 }
