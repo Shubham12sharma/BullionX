@@ -6,10 +6,10 @@ import Hero from './Hero'
 function SupportPage() {
   return (
     <>
-        <Navbar/>
-        <CreateTicket/>
         <Hero/>
-        <Footer/>
+        <CreateTicket/>
+        
+       
         
     </>
   )
