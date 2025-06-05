@@ -7,9 +7,10 @@ import Footer from '../Footer'
 function AboutPage() {
   return (
     <div>
-       
+        <Navbar/>
         <Hero/>
         <Team/>
+        <Footer/>
         
     </div>
   )

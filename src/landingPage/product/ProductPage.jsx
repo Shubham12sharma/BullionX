@@ -12,12 +12,14 @@ import varsity from '../../assets/varsity.png'
 import coin from '../../assets/coin.png'
 import console from '../../assets/console.png'
 import kiteConnect from '../../assets/kiteconnect.png'
+import Navbar from '../Navbar';
+import Footer from '../Footer';
 
 function ProductPage() {
   return (
     <>
      
-
+      <Navbar/>
       <Hero />
 
       <LeftSection
@@ -67,7 +69,7 @@ function ProductPage() {
       <p style={{marginLeft:"30%",marginRight:"30%", fontSize:"20px"}}>Want to know more about our technology stack? Check out the <a href='#' style={{textDecoration:"none"}}>BullionX.tech</a> blog.</p>
 
       <Universe />
-
+      <Footer/>
      
     </>
   );
