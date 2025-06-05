@@ -2,7 +2,7 @@ import React from 'react'
 
 function Hero() {
   return (
-    <div class="container-fluid py-4" id="supportHero">
+    <div class="container-fluid py-4" style={{backgroundColor:"#7cabf7"}}>
     <div className='container'>
     <div class="row mb-4">
       <div class="mt-5 mb-3 col-12 d-flex justify-content-between align-items-center">

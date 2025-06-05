@@ -844,3 +844,12 @@ hr {
 .action:hover {
   background-color: rgb(212, 212, 212);
 }
+
+.dropdown {
+  position: absolute;
+  background-color: red;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  z-index: 1000;
+}
