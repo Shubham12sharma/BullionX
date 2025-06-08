@@ -11,6 +11,7 @@ import Support from './landingPage/support/SupportPage'
 import SignUp from './landingPage/signUp/SignUp';
 
 import Dashboard from './landingPage/component/Home';
+import Ham from './landingPage/Ham/Ham';
 
 
 
@@ -27,6 +28,7 @@ function App() {
               <Route path='/product' element={<Product/>}></Route>
               <Route path='/pricing' element={<Pricing/>}></Route>
               <Route path='/support' element={<Support/>}></Route>
+              <Route path='/ham' element={<Ham/>}></Route>
 
               <Route path='/*' element={<Dashboard />} />
               

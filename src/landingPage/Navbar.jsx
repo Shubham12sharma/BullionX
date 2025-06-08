@@ -35,7 +35,7 @@ function Navbar() {
                   <Link className="nav-link active mx-2" to="/support">Support</Link>
                 </li>
                <li className="nav-item ">
-                  <Link className="nav-link active mx-2" to="#"><i className="fa fa-bars" aria-hidden="true"></i></Link>
+                  <Link className="nav-link active mx-2" to="/ham"><i className="fa fa-bars" aria-hidden="true"></i></Link>
                 </li>
                </ul>
             </div>
